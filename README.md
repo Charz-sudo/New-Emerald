@@ -1,6 +1,7 @@
 # Pokémon Emerald
 
-This is a decompilation of Pokémon Emerald.
+This is a decompilation of Pokémon Emerald. Don't jump up in excitement and stay calm. 
+Regular emerald rom--> emerald rom w/gen 9 pokemon, map features(with porymap), qol changes, etc.
 
 It builds the following ROM:
 
